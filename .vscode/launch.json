@@ -8,7 +8,7 @@
             "name": "Python Debugger: Current File",
             "type": "debugpy",
             "request": "launch",
-            "program": "/home/robin/Documents/gym-kmanip/gym_kmanip/examples/0_test_ik.py",
+            "program": "gym_kmanip/examples/0_test_ik.py",
             "console": "integratedTerminal"
         }
     ]
